@@ -1,4 +1,4 @@
-## Follow the steps below
+## Hello Ethernaut Solution
 
 
 1. `await contract.info()`  
