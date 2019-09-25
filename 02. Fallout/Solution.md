@@ -6,3 +6,5 @@
 2. Check if player is contract owner  
 `player === await contract.owner()`  
 true
+
+3. Submit Instance 🎉

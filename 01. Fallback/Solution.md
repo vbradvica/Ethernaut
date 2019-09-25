@@ -25,3 +25,5 @@ true
 
 7. Withdraw funds  
 `await contract.withdraw()`
+
+8. Submit Instance 🎉
