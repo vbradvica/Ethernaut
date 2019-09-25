@@ -29,7 +29,8 @@
 "If you know the password, submit it to authenticate()."  
 
 
-8. We should explore the contract ABI. There is a method called password that returns a string. Let's call that. `await contract.password()`  
+8. We should explore the contract ABI. There is a method called password that returns a string. Let's call that.  
+`await contract.password()`  
 "ethernaut0"  
 
 

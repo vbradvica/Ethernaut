@@ -19,11 +19,11 @@
 5. Call fallback payable function  
 `await contract.sendTransaction({from: player, value: toWei(0.001), gas: 90000 })`
 
-6. Check if player is the owner  
+6. Check if player is the owner.  
 `player === (await contract.owner())`  
 true
 
-7. Withdraw funds  
+7. Withdraw funds.  
 `await contract.withdraw()`
 
 8. Submit Instance 🎉
