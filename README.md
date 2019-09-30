@@ -23,6 +23,6 @@ Levels
 * [x] 18. Recovery  
 * [ ] 19. MagicNumber  
 * [ ] 20. Alien Codex  
-* [ ] 21. Denial  
+* [x] 21. Denial  
 * [ ] 22. Shop  
   
